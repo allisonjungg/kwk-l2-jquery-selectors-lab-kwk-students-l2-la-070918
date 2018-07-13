@@ -8,6 +8,6 @@ function liInOlSelector(){
   return $("ol>li");
 }
 function linkSelector() {
-  return $()
+  return $("#box4,box5a")
 }  
 }
