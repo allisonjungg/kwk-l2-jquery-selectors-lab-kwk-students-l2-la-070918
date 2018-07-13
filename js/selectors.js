@@ -7,4 +7,4 @@ function h1Selector(){
 function liInOlSelector(){
   return $("ol>li");
 }
-function 
+function linkSelector
