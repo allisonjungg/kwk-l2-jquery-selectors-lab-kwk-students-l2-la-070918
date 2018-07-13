@@ -12,5 +12,5 @@ function linkSelector(){
 }
  
 function imageSelector(){
-  return $(img[alt="cat sleeping"])
+  return $('img[alt="cat sleeping"]')
 }
